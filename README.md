@@ -5,5 +5,5 @@
 - 😄 Pronouns: He/Him
 
 <div id="header" align="center">
-  <immage src="https://giphy.com/embed/YrlpLGc9MHjg1m1jwZ" width="480" />
+  <immage src="https://giphy.com/embed/YrlpLGc9MHjg1m1jwZ" width="480"/>
 </div>
