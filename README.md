@@ -5,5 +5,5 @@
 - 😄 Pronouns: He/Him
 
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/YrlpLGc9MHjg1m1jwZ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/QDOBA-burrito-burritos-qdoba-YrlpLGc9MHjg1m1jwZ">via GIPHY</a></p>
+  <immage src="https://giphy.com/embed/YrlpLGc9MHjg1m1jwZ" width="480" />
 </div>
